@@ -1,0 +1,13 @@
+.icon-netflix {
+fill: red;
+line-height: 90px;
+margin-left: 10px;
+}
+
+svg{
+  position: absolute;
+  width: 166.5px;
+  height: 45px;
+  margin-left: -870px;
+  margin-top: 17px;
+}

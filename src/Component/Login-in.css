@@ -1,0 +1,12 @@
+.sign-back-img-in{
+  background-size: cover;
+  display: block;
+  position: fixed;
+  margin-top: -6%;
+  z-index: -1;
+  height: 100%;
+  width: 100%;
+  margin-left: -2%;
+  box-shadow: inset 0 0 50px rgba(0,0,0,1);
+  border-radius: 100px;
+}

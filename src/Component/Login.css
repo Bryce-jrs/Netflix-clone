@@ -1,0 +1,12 @@
+.sign-back-img{
+  background-size: cover;
+  display: block;
+  position: fixed;
+  margin-top: -6%;
+  z-index: -1;
+  height: 100%;
+  width: 100%;
+  margin-left: -2%;
+  filter:brightness(50%);
+
+}

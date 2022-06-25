@@ -1,0 +1,54 @@
+.icon-netflix {
+  fill: red;
+  line-height: 90px;
+  margin-left: 10px;
+  }
+  
+  svg{
+    position: absolute;
+    width: 166.5px;
+    height: 45px;
+    margin-left: -870px;
+    margin-top: 17px;
+  }
+  
+  .identify button{
+    position: absolute;
+    background-color: #db0510;
+    border: 0;
+    width:120px;
+    height: 36px;
+    color:white;
+    border-radius: 2px;
+    font-size: 16px;
+    margin-left: 750px;
+    margin-top: -70px;
+  }
+
+  .header-login .selector{
+    position: absolute;
+    background-color:rgba(0,0,0,1);
+    width: 120px;
+    height: 36px;
+    border: 1px solid;
+    border-color: white;
+    margin-left: 1510px;
+    margin-top: -70px;
+  }
+  
+  .header-login select{
+    position: absolute;
+    margin-top: 10px;
+    margin-left: -784px;
+    background-color:rgba(0,0,0,1);
+    color:white;
+    border:0;
+  }
+
+  .globefont{
+    margin-left: 805px;
+    margin-right: 10px;
+    color:white;
+    width:10px;
+  }
+

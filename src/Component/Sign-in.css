@@ -1,0 +1,58 @@
+*{
+  font-family: 'Netflix Sans','Helvetica Neue',Helvetica,Arial,sans-serif;
+}
+.signin-content input[type="text"]{
+  position: absolute;
+  background-color: white;
+  width: 520px;
+  height: 70px;
+  color: #8c8c8c;
+  border:0;
+  font-size: 16px;
+  font-weight: lighter;
+  border-radius: 2px;
+  padding-left: 20px;
+  top: 60%;
+  left: 540px;
+}
+
+.signin-content input[type="submit"]{
+  position: absolute;
+  width: 260px;
+  height: 73.5px;
+  background-color: #db0510;
+  color:white;
+  font-size: 29px;
+  border:0;
+  border-radius: 2px;
+  margin-left: 151px;
+  top: 60%}
+
+.signin-content h1{
+  position: absolute;
+  color: white;
+  width: 800px;
+  font-size:4rem;
+  top: 25%;
+  margin-left:500px;
+  ;
+}
+
+.signin-content h2{
+  position: absolute;
+  color: white;
+  font-size:1.625rem;
+  font-weight:400px;
+  top: 44%;
+  margin-left:630px;
+}
+
+.signin-content h3{
+  position: absolute;
+  color: white;
+  font-size:1.2rem;
+  font-weight:400px;
+  width: 950px;
+  top: 51%;
+  margin-left: 455px;
+}
